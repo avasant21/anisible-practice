@@ -6,7 +6,7 @@
     Follow the below repository for deploying the instances which will be configured in Kubernetes Cluster Setup.</br>
     `No of Instances: 2`
 
-      <a href="https://github.com/avasant21/terraform-practice"> https://github.com/avasant21/terraform-practice</a></br>
+      <a href="https://github.com/avasant21/terraform-practice" target="_blank" rel="noopener noreferrer">https://github.com/avasant21/terraform-practice</a></br>
 
 2. <b>OS Configurations:</b></br>
     Follow the below steps to configure required OS Hostname to be used in Ansible Inventory. Use the Terraform output private IPs to replace the IP Entries and update `/etc/hosts` file</br>
